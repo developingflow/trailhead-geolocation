@@ -32,28 +32,28 @@
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1536332542718,
             "changeTime": 1536332542718,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura",
             "isDirectory": true,
-            "size": 28,
-            "modifiedTime": 1536332390746,
-            "changeTime": 1536332390746,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "size": 80,
+            "modifiedTime": 1536332941690,
+            "changeTime": 1536332941690,
+            "isWorkspace": false,
+            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
+            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1536332413471,
-            "changeTime": 1536332413471,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 182,
+            "modifiedTime": 1536332999699,
+            "changeTime": 1536332999699,
+            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
         }
     ],
     [
@@ -385,92 +385,352 @@
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1536332542714,
             "changeTime": 1536332542714,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4565,
             "modifiedTime": 1536332542720,
             "changeTime": 1536332542720,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4901,
             "modifiedTime": 1536332542725,
             "changeTime": 1536332542725,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4561,
             "modifiedTime": 1536332542729,
             "changeTime": 1536332542729,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17965,
             "modifiedTime": 1536332542739,
             "changeTime": 1536332542739,
-            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74"
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/tabs",
         {
-            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 56,
             "modifiedTime": 1536332542714,
             "changeTime": 1536332542714,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 296,
             "modifiedTime": 1536332542739,
             "changeTime": 1536332542739,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 344,
+            "modifiedTime": 1536332941694,
+            "changeTime": 1536332941694,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 416,
+            "modifiedTime": 1536332724131,
+            "changeTime": 1536332724131,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1536332941693,
+            "changeTime": 1536332941693,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 338,
+            "modifiedTime": 1536332962781,
+            "changeTime": 1536332962781,
+            "contentHash": "5f850e7f50fd1b0e3ea31f5dee739db02f882336"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 243,
+            "modifiedTime": 1536332941691,
+            "changeTime": 1536332941691,
+            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 111,
+            "modifiedTime": 1536332983949,
+            "changeTime": 1536332983949,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1536332941694,
+            "changeTime": 1536332941694,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1536332941693,
+            "changeTime": 1536332941693,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 255,
+            "modifiedTime": 1536332973993,
+            "changeTime": 1536332973993,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1536332941692,
+            "changeTime": 1536332941692,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1536332941693,
+            "changeTime": 1536332941693,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1536332724131,
+            "changeTime": 1536332724131,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 120,
+            "modifiedTime": 1536332887491,
+            "changeTime": 1536332887491,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 247,
+            "modifiedTime": 1536332724129,
+            "changeTime": 1536332724129,
+            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 168,
+            "modifiedTime": 1536332896792,
+            "changeTime": 1536332896792,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1536332724131,
+            "changeTime": 1536332724131,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1536332724130,
+            "changeTime": 1536332724130,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1536332724129,
+            "changeTime": 1536332724129,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1536332724129,
+            "changeTime": 1536332724129,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/home/rich.englhard/Salesforce Projects/Trailhead/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1536332724130,
+            "changeTime": 1536332724130,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
